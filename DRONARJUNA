@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>	DRONARJUNA</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="style.css">
+
+</head>
+<body >
+    
+	<header>
+		<div class="navbar">
+			<div class="nav-logo outside">
+				 <div class="logo">
+			 </div> 	
+	    </div>
+
+
+<div class="nav-adress">
+<p class="one">DELIVER TO</p>
+	<div class="add-icon outline">
+      <i class="fa-solid fa-location-dot"></i>
+		<p class="sec">INDIA</p>
+	</div>
+	</div>
+
+<div class="nav-search">
+		<select class="all outline">
+			<option>ALL</option>
+		</select>
+	<input placeholder="WHAT ARE YOU LOOKING FOR" class="crazy outline">
+	<div class="search-icon outline1">
+		<i class="fa-solid fa-magnifying-glass"></i>
+
+	</div>
+
+</div>
+
+
+	 <div class="nav-signin outline">
+	 	<p><span>HELLO, Sign in</span></p>
+	 	<p>ACCOUNT & LISTS</p>
+	 </div>
+
+
+	 <div class="orders outline">
+	 	<p><span>YOUR </span></p>
+	 	<p>PURCHASE</p>
+	 </div>
+	 </div>
+
+
+	<div class="panel">
+		<div class="panel-all outline1">
+		<i class="fa-solid fa-bars"></i>
+		ALL
+	</div>
+	<div class="panel-opt">
+		<p class="drone outline1">DRONES</p>
+		<p class="lease outline1">LEASE DRONES</p>
+		<p class="hire outline1">HIRE DRONES</p>
+
+	</div>
+		<div class="us">
+			<p class="about outline1">ABOUT US</p>
+			<p class="contact outline1">CONTACT US</p>
+	
+		</div>
+	</div>
+</header>
+<main>
+	<header>
+		<div class="he">
+			<p class="tittle">DRONARJUNA</p>
+			<style>
+				main{
+					color: white;
+					text-align: center;
+					font-size: 100px;
+
+				}
+				
+			</style>
+		</div>
+	</header>
+	<style>
+		body{
+			background-image: url(dr_pic.png);
+			background-size: cover;
+			}
+	</style>
+</main>
+<footer>
+	<p>BACK TO TOP</p>
+	
+	<style>
+		footer{
+			color: white;
+			text-align: center;
+			margin-top: 500px;
+			font-size: 50px;
+					}
+	</style>
+</footer>
+</body>
+</html>
